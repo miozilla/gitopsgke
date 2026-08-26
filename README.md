@@ -9,8 +9,16 @@ gitopsgke : | GitOps on GKE | Deploy Workload, Zero-Downtime Rolling Updates, Po
 - Enable and push a GitOps policy to trigger automated synchronization.
 - Verify policy-driven pod mutation for GKE compute class selection.
 
+
 ## Similar Skills Set
 - AWS : EKS Auto Mode
 - Azure : AKS Virtual Node (via Azure Container Instances)
 
+
 ## Execute Rolling Updates and GitOps on GKE
+
+![gitopsgke001.png](./media/gitopsgke001.png)
+
+![gitopsgke002.png](./media/gitopsgke002.png)
+
+![gitopsgke003.png](./media/gitopsgke003.png)

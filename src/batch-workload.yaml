@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: batch-workload
+  namespace: default
+  labels:
+    tier: batch
+spec:
+  nodeSelector:
+    cloud.google.com/compute-class: Scale-Out
+  containers:
+  - name: workload
+    image: alpine
+    command: ["sleep", "3600"]
+  restartPolicy: Never
