@@ -1,5 +1,5 @@
 # gitopsgke ♐👮
-gitopsgke : | GitOps on GKE | Deploy workload, Rolling Updates, Policy Controller, Mutation Support, Synchronization Status |
+gitopsgke : | GitOps on GKE | Deploy workload, Zero-Downtime Rolling Updates, Policy Controller, Mutation Support, Synchronization Status |
 
 
 ## Objectives
@@ -10,7 +10,7 @@ gitopsgke : | GitOps on GKE | Deploy workload, Rolling Updates, Policy Controlle
 - Verify policy-driven pod mutation for GKE compute class selection.
 
 ## Similar Skills Set
-- AWS : EKS
-- Azure : AKS
+- AWS : EKS Auto Mode
+- Azure : AKS Virtual Node (via Azure Container Instances)
 
 ## Execute Rolling Updates and GitOps on GKE
