@@ -1,5 +1,5 @@
 # gitopsgke ♐👮
-gitopsgke : | GitOps on GKE | Deploy Workload, Zero-Downtime Rolling Updates, Policy Controller, Mutation Support, Synchronization Status |
+gitopsgke : | GitOps Continuous Deployment on GKE | Deploy Workload, Zero-Downtime Rolling Updates, Policy Controller, Mutation Support, Synchronization Status |
 
 
 ## Objectives
